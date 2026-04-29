@@ -41,21 +41,6 @@
 
 Changed the firefox.alt.svg to firefox.svg since I prefer that one more.
 
-
-
-
-- applications
-- bluetooth
-- default applications
-- enter bios
-- lock
-- network & wireles
-- restart
-- startup applications
-- window management
-- x11 application compatiblity
-- 
-
 ## System Icons
 
 ### Applications
