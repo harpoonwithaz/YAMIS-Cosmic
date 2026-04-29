@@ -1,11 +1,11 @@
 # Icons Added
 
-### COSMIC Files
+## COSMIC Files
 
 - com.system76.CosmicFiles.svg
 - cosmic-files.svg
 
-### COSMIC Terminal
+## COSMIC Terminal
 
 - com.system76.CosmicTerm.svg
 - cosmic-terminal.svg
